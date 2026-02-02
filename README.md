@@ -4,7 +4,7 @@ This repository contains the completed setup of the Strapi project as part of th
 
 ---
 
-## 📌 Task Objective
+##  Task Objective
 
 The goal of this task was to:
 
@@ -19,7 +19,7 @@ The goal of this task was to:
 
 ---
 
-## 🚀 Project Setup Steps
+##  Project Setup Steps
 
 ### 1️. Clone Strapi Repository
 
