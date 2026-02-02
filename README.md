@@ -76,5 +76,5 @@ http://localhost:1337/api/blogs
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/aced4284-e7bb-4eb6-9112-5b09fd28ca3c" />
 <img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/16f413b6-0ce2-46f8-864e-89a662e7f93c" />
 
-
+LOOM Video : https://www.loom.com/share/e17039ef935248a6bae27cc3badf1002
 
